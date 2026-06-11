@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pramod%20Sultane&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Cloud%20%26%20DevOps%20Leader%20♾️%20|%20AI%20in%20SDLC%20🤖%20|%20Multi%20Cloud%20Certified%20🎓&descAlignY=55&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pramod%20Sultane&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Cloud%20%26%20DevOps%20Leader%20%7C%20AI%20in%20SDLC%20%7C%20Multi%20Cloud%20Certified&descAlignY=55&descSize=16" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer+%E2%99%BE%EF%B8%8F;AI+%7C+MLOps+%7C+Platform+Engineering+%F0%9F%A4%96;AWS+%7C+Azure+%7C+GCP+Certified+%F0%9F%8E%93;Building+the+Future+of+DevOps+%F0%9F%9A%80)](https://git.io/typing-svg)
 
