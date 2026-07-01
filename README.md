@@ -22,24 +22,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pramodsultane&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
 <div align="center">
 
 [![](https://komarev.com/ghpvc/?username=pramodsultane&style=for-the-badge&color=blueviolet)](https://github.com/pramodsultane)
-
-### 💰 Support My Work
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/pramodsultane)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a1b27,100:0d1117&amp;height=100&amp;section=footer" width="100%"/>
 
 </div>
 
